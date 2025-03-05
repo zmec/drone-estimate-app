@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zmec/drone-estimate-app.git/static/css/main.e6c13ad2.css",
-    "main.js": "/zmec/drone-estimate-app.git/static/js/main.ffd7dbf2.js",
-    "static/js/453.6e85506c.chunk.js": "/zmec/drone-estimate-app.git/static/js/453.6e85506c.chunk.js",
-    "index.html": "/zmec/drone-estimate-app.git/index.html",
-    "main.e6c13ad2.css.map": "/zmec/drone-estimate-app.git/static/css/main.e6c13ad2.css.map",
-    "main.ffd7dbf2.js.map": "/zmec/drone-estimate-app.git/static/js/main.ffd7dbf2.js.map",
-    "453.6e85506c.chunk.js.map": "/zmec/drone-estimate-app.git/static/js/453.6e85506c.chunk.js.map"
+    "main.css": "/drone-estimate-app/static/css/main.e6c13ad2.css",
+    "main.js": "/drone-estimate-app/static/js/main.587a0550.js",
+    "static/js/453.6e85506c.chunk.js": "/drone-estimate-app/static/js/453.6e85506c.chunk.js",
+    "index.html": "/drone-estimate-app/index.html",
+    "main.e6c13ad2.css.map": "/drone-estimate-app/static/css/main.e6c13ad2.css.map",
+    "main.587a0550.js.map": "/drone-estimate-app/static/js/main.587a0550.js.map",
+    "453.6e85506c.chunk.js.map": "/drone-estimate-app/static/js/453.6e85506c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ffd7dbf2.js"
+    "static/js/main.587a0550.js"
   ]
 }
